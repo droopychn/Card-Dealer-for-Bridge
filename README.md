@@ -16,6 +16,10 @@ FLong6.py - Filter out hands having 6+ long suit. 1st parameter: N/E/S/W, defaul
 
 FPoints.py - Filter out hands in point range. 1st parameter: N/E/S/W; 2nd: low limit of points; 3rd: hight limit, optional.
 
+FShapeNT.py - Filter out blanced hands, 4432, 4333, 5332, 6322 (C/D suit). 1st parameter: N/E/S/W, default to South.
+
+FShort.py, FVoid.py - Filter out short/void. 1st parameter: N/E/S/W, default to South.
+
 
 
 Just1Board.py - Differenct from other programs here, this one simply deal and show 1 board, without collaboration with others.
