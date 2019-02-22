@@ -1,6 +1,8 @@
 # Card-Dealer-for-Bridge
 Deal cards for bridge game
 
+try to use by command: python Dealer.py | PrintHands.py
+
 Cards are numbered from 1 to 52. 
 Spades: #1-13; Hearts: #14-26; Diamonds: #27-39; Clubs: #40-52. Sequencing from A to 2 in each suit.
 
