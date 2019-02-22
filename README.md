@@ -13,3 +13,5 @@ PrintHands.py - Print boards from stdin (by line). North: position 1-13; East: p
 F2Suits.py - Filter out hands having 55+ 2 suits. 1st parameter: N/E/S/W, default to South.
 
 FLong6.py - Filter out hands having 6+ long suit. 1st parameter: N/E/S/W, default to South.
+
+Points.py - Filter out hands in point range. 1st parameter: N/E/S/W; 2nd: low limit of points; 3rd: hight limit, optional.
