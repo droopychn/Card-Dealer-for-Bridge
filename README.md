@@ -11,3 +11,5 @@ Dealer.py - Shuffle cards and send to stdout. Optional 1st parameter as number o
 PrintHands.py - Print boards from stdin (by line). North: position 1-13; East: pos 14-26; South: pos 27-39; West: pos 40-52.
 
 F2Suits.py - Filter out hands having 55+ 2 suits. 1st parameter: N/E/S/W, default to South.
+
+FLong6.py - Filter out hands having 6+ long suit. 1st parameter: N/E/S/W, default to South.
