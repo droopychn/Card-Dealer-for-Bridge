@@ -15,3 +15,7 @@ F2Suits.py - Filter out hands having 55+ 2 suits. 1st parameter: N/E/S/W, defaul
 FLong6.py - Filter out hands having 6+ long suit. 1st parameter: N/E/S/W, default to South.
 
 FPoints.py - Filter out hands in point range. 1st parameter: N/E/S/W; 2nd: low limit of points; 3rd: hight limit, optional.
+
+
+
+Just1Board.py - Differenct from other programs here, this one simply deal and show 1 board, without collaboration with others.
